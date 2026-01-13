@@ -158,7 +158,3 @@ Three models were built to predict survival:
 * Scikit-learn documentation: [https://scikit-learn.org/stable/documentation.html](https://scikit-learn.org/stable/documentation.html)
 
 ---
-
-If you want, I can also **make a shorter, super clean “portfolio-style README” version** that emphasizes your predictive analysis and results for finance/tech internships—it would look more like something you’d put on GitHub for recruiters.
-
-Do you want me to make that version too?
