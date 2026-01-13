@@ -1,9 +1,3 @@
-# Titanic-Surivival-Prediction
-
-Absolutely! Here's a professional and structured README tailored for your Titanic project based on everything you’ve done. You can copy this into a `README.md` file:
-
----
-
 # Titanic Survival Prediction Project
 
 **Author:** Joshua Jacob
